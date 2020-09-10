@@ -1,3 +1,32 @@
-h1 {
-    color:magenta;
+*{
+    text-align: center;
+}
+
+#intro{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#container {
+    color:white;
+    text-align: center;
+    margin : 25px auto;
+    background-color: white;
+    height: 200px;
+    width : 700px;
+    border: 30px;
+    
+    
+    
+}
+.choice{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+#question{
+    height: 100px;
+    width: 600px;
 }
